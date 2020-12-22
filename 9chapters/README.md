@@ -86,5 +86,21 @@ Follow Up:
 [609. Two Sum - Less than or equal to target](https://www.lintcode.com/problem/two-sum-less-than-or-equal-to-target/description), [sol](https://www.jiuzhang.com/problem/two-sum-less-than-or-equal-to-target)
 
 
+
+# 第五章【互动】必须熟练掌握的两个排序算法
+
+|Alg|Time Complexity|Space Complexity|Stability*|DC time*|
+|-|-|-|-|-|
+|快速排序（Quick Sort）|Avg: O(nlogn); Worst: O(n^2)*|O(1) in place|Not|Do O(n) first|
+|归并排序（Merge Sort）|Theta(nlogn)|O(n)*|Yes|Do T(n/2) first|
+||
+
+Note *:
+
+1. The worst case is when the array is already sorted but pivot select the arr[0] every time, making it become O(1) + O(n^2) => O(n^2).
+2. Merge Sort need a seperate new temporary array to store.
+3. An example for stability is that to sort array {2, 1, 1, 2} and we label the two 2s as 2' and 2'' respectively. So we want {2', 1, 1, 2"} to become to {1, 1, 2', 2"} which is called having stability. 
+4. When we use Divide and Conquer (DC) algorithm we calculate the running time using T(n) = 2T(n/2) + O(n). The QS does the O(n) first. This is called 先整体有序，再局部有序. While MS does the T(n/2) first. This is 先局部有序，在整体有序.
+
 ---
 ([Go back to respository ReadMe](../README.md))
