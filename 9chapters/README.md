@@ -115,6 +115,8 @@ Note *:
 
 ## Quick Select
 
+找到n个无序元素中的第K大元素，最简单的办法就是将所有元素排序，再去找第k个元素。但实际上，这个过程中会有许多冗余的操作，我们可以进行一些优化，也就是使用接下来要讲的quick select算法。
+
 ### 快速选择算法的 Partition 的实质：
 
 快速选择/快速排序中的 partition 是 可左可右 的partition，也就是说，对于nums[i] == pivot 时，这个数字既可以放在左边，也可以放在右边。
@@ -131,6 +133,9 @@ Note *:
 ### 总结
 
 简单的说就是，quick select 和 quick sort 的 partition 目标不是将数组 严格的按照 nums[i] < pivot 和nums[i] >= pivot 去拆分开，而是只要能够让左半部分 <= 右半部分即可。这样子 nums[i] == pivot 放在哪儿都无所谓，两边都可以放。
+
+### LC:
+[5. Kth Largest Element](5.Kth_Largest_Element.md) Quick Select
 
 ---
 ([Go back to respository ReadMe](../README.md))
