@@ -107,9 +107,11 @@ Note *:
 
 ### LC:
 
-[463. Sort Integers](lintcode/463.Sort_Integers.md)
+[463. Sort Integers](lintcode/463.Sort_Integers.md) QS MS
 
-[1153. string sorting](lintcode/1153.string_sorting.md)
+[1153. string sorting](lintcode/1153.string_sorting.md) QS
+
+[6. Merge Two Sorted Arrays](lintcode/6.Merge_Two_Sorted_Arrays.md) MS
 
 ## Quick Select
 
