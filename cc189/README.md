@@ -8,7 +8,7 @@ The book PDF is available [here](./book/Cracking%20the%20Coding%20Interview%206t
 
 Ref: Official [github] of the book. (https://github.com/DayuanTan/CtCI-6th-Edition).
 
-For the 9 chapters Alg course: [check this](9chapters). 
+For the 9 chapters Alg course: [check this](../9chapters). 
 
 In addition, a good coding interview notes [Coding Interview University](https://github.com/DayuanTan/coding-interview-university) and a respository [Top Javaer 成神之路](https://github.com/DayuanTan/toBeTopJavaer).
 
