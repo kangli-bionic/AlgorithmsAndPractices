@@ -113,6 +113,9 @@ Note *:
 
 [6. Merge Two Sorted Arrays](lintcode/6.Merge_Two_Sorted_Arrays.md) MS
 
+[532. Reverse Pairs](532.Reverse_Pairs.md) MS
+
+
 ## Quick Select
 
 找到n个无序元素中的第K大元素，最简单的办法就是将所有元素排序，再去找第k个元素。但实际上，这个过程中会有许多冗余的操作，我们可以进行一些优化，也就是使用接下来要讲的quick select算法。
@@ -136,6 +139,8 @@ Note *:
 
 ### LC:
 [5. Kth Largest Element](5.Kth_Largest_Element.md) Quick Select
+
+[80. Median](80.Median.md) Q select
 
 ---
 ([Go back to respository ReadMe](../README.md))
