@@ -1,8 +1,6 @@
 # Notes for 9 chapters Algorithms Course 2020
 
-([Go to book part 1,](../part1.md) | 
-[Go to book part 2,](../part2.md) | 
-[Go back to respository ReadMe](../README.md))
+([Go back to respository ReadMe](../README.md))
 
 ---
 
@@ -89,6 +87,4 @@ Follow Up:
 
 
 ---
-([Go to book part 1,](../part1.md) |
-[Go to book part 2,](../part2.md) |
-[Go back to respository ReadMe](../README.md))
+([Go back to respository ReadMe](../README.md))
