@@ -102,7 +102,11 @@ Note *:
 3. An example for **stability** is that to sort array {2, 1, 1, 2} and we label the two 2s as 2' and 2'' respectively. So we want {2', 1, 1, 2"} to become to {1, 1, 2', 2"} which is called having stability. 
 4. When we use **Divide and Conquer (DC)** algorithm we calculate the running time using T(n) = 2T(n/2) + O(n). The QS does the O(n) first. This is called 先整体有序，再局部有序. While MS does the T(n/2) first. This is 先局部有序，在整体有序.
 
+[Quick Sort web](https://www.jiuzhang.com/problem/quick-sort/) or local.
+[Merge Sort web](https://www.jiuzhang.com/problem/merge-sort/) or local.
+
 ### LC:
+
 [463. Sort Integers](lintcode/463.Sort_Integers.md)
 
 [1153. string sorting](lintcode/1153.string_sorting.md)
