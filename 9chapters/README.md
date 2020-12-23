@@ -144,5 +144,17 @@ Note *:
 
 [148. Sort Colors](148.Sort_Colors.md) Q select.
 
+
+# [第六章【互动】时间复杂度为O(logN)的高频算法——二分法](files/chapter6.md)
+
+在这一节课中，我们要来通过递归来了解二分的基础知识
+
+- Part 1 时间复杂度 - 用 T 函数表示法计算时间复杂度
+- Part 2 递归与二分法
+- Part 3 空间复杂度 - 内存中的栈空间与堆空间
+- Part 4 什么是递归深度
+
+
+
 ---
 ([Go back to respository ReadMe](../README.md))
