@@ -21,8 +21,8 @@ Part 1
 
 ||时间复杂度|空间复杂度|是否要求有序|
 |-|-|-|-|
-|二分搜索|O(logn)||需要数组有一定的顺序|
-|普通查找|O(N)||不需要数组有序|
+|二分搜索|O(logn)|一样|需要数组有一定的顺序|
+|普通查找|O(N)|一样|不需要数组有序|
 ||
 
 
@@ -134,6 +134,16 @@ class Solution:
 ## LC
 
 [457. Classical Binary Search](../lintcode/457.Classical_Binary_Search.md) 
+
+三个思路：
+|思路|时间复杂度|问题|
+|-|-|-|
+|遍历|O(N)|太慢|
+|HashTable|O(1)|是在内存上操作，当数据集较大时，无法全放到内存上，那么就不能用了。|
+|二分查找|O(logN)|磁盘上操作|
+||
+
+
 
 [458. Last Position of Target](../lintcode/458.Last_Position_of_Target.md)
 
