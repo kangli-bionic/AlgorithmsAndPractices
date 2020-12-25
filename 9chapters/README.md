@@ -36,7 +36,8 @@ Class notes are inside Notability. Recorded video are also provided.
 Greedy Alg [187. Gas Station](https://www.lintcode.com/problem/gas-station/description), [sol](https://www.jiuzhang.com/problem/gas-station)
 
 
-
+---
+([Go back to respository ReadMe](../README.md))
 
 # 第四章【互动】复杂度理论与双指针算法入门
 
@@ -85,7 +86,8 @@ Follow Up:
 
 [609. Two Sum - Less than or equal to target](https://www.lintcode.com/problem/two-sum-less-than-or-equal-to-target/description), [sol](https://www.jiuzhang.com/problem/two-sum-less-than-or-equal-to-target)
 
-
+---
+([Go back to respository ReadMe](../README.md))
 
 # 第五章【互动】必须熟练掌握的两个排序算法
 
@@ -149,6 +151,10 @@ Note *:
 [148. Sort Colors](148.Sort_Colors.md) Q select.
 
 
+
+---
+([Go back to respository ReadMe](../README.md))
+
 # [第六章【互动】时间复杂度为O(logN)的高频算法——二分法](files/chapter6.md)
 
 在这一节课中，我们要来通过递归来了解二分的基础知识
@@ -159,6 +165,10 @@ Note *:
 - Part 4 什么是递归深度
 
 
+---
+([Go back to respository ReadMe](../README.md))
+
+# [第七章【互动】一个不会出现死循环的通用二分法模板](files/chapter7.md)
 
 ---
 ([Go back to respository ReadMe](../README.md))
