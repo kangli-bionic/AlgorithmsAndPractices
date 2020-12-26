@@ -169,6 +169,17 @@ Note *:
 ([Go back to respository ReadMe](../README.md))
 
 # [第七章【互动】一个不会出现死循环的通用二分法模板](files/chapter7.md)
+- 二分查找模版
+- 四个要点
+
+# 第八章【视频】高频算法之王——双指针算法之相向双指针
+
+# 第九章【视频】简约而不简单——二分法学习的四重境界
+
+# 第十章【互动】队列知识点从易到难
+
+# 第十四章【视频】性价比之王——宽度优先搜索
+
 
 ---
 ([Go back to respository ReadMe](../README.md))
