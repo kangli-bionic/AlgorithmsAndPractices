@@ -1,3 +1,8 @@
+- Part 1: Queue 
+- Part 2: Implement queue using array and its issue
+- Part 3: Implement queue using LinkedList, Implement Circular queue using array
+- Part 4: Java Queue Interface, Java Basis: Interface Set Map List Queue
+- Part 5: Java Basis: Interface vs Abstract Class
 
 这节课，我们要来学习一种数据结构——队列。队列这个数据结构是宽度优先搜索算法的基础数据结构，宽度优先搜索就是基于队列实现的。接下来，我们来看看究竟什么是队列。
 
@@ -499,5 +504,12 @@ LinkedList 与 ArrayList 对比：
 - 而C++直接使用多继承即可，所以不需要interface。
 
 看完了接口的作用，我们再来看一下虚类是什么
+“第十章【互动】队列知识点从易到难3_抽象类语法及为什么要用抽象类.mov”
+
+一点新知识：
+- abstract class的abstract method 必须要被子类实现，不实现会语法报错
 
 那么，虚类和接口又有什么区别呢？
+“第十章【互动】队列知识点从易到难4_抽象类与接口的对比.mov”
+
+好了，那了解了Interface后，我们这节课也就到了尾声了。这节课我们讲了队列的几种实现方法，以及Java中接口的一些相关知识，从下节课开始，我们就要正式开始学习一个面试中可以说是最常考的算法——宽度优先搜索了。

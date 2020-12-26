@@ -172,11 +172,24 @@ Note *:
 - 二分查找模版
 - 四个要点
 
+---
+([Go back to respository ReadMe](../README.md))
+
 # 第八章【视频】高频算法之王——双指针算法之相向双指针
 
 # 第九章【视频】简约而不简单——二分法学习的四重境界
 
 # [第十章【互动】队列知识点从易到难](files/chapter10.md)
+- Part 1: Queue 
+- Part 2: Implement queue using array and its issue
+- Part 3: Implement queue using LinkedList, Implement Circular queue using array
+- Part 4: Java Queue Interface, Java Basis: Interface Set Map List Queue
+- Part 5: Java Basis: Interface vs Abstract Class
+
+---
+([Go back to respository ReadMe](../README.md))
+
+# [第十一章【互动】宽度优先搜索与图论入门](files/chapter11.md)
 
 # 第十四章【视频】性价比之王——宽度优先搜索
 
