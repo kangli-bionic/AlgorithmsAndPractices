@@ -190,6 +190,10 @@ Note *:
 ([Go back to respository ReadMe](../README.md))
 
 # [第十一章【互动】宽度优先搜索与图论入门](files/chapter11.md)
+- Part 1: BFS 3种适用场景
+- Part 2: BFS 3种实现方法：单队列，双队列，DummyNode
+- Part 3: 图，二叉树的BFS和图的BFS
+- Part 4: 如何定义图的数据结构：邻接矩阵，邻接表
 
 # 第十四章【视频】性价比之王——宽度优先搜索
 
