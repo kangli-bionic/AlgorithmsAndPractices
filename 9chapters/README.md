@@ -46,6 +46,9 @@ Greedy Alg [187. Gas Station](https://www.lintcode.com/problem/gas-station/descr
 - Part 3 Use 2 pointers: Valid Palindrome & Valid Palindrome II
 - Part 4 Two Sum: HashTable, Sort + 2 pointers, Follow Up Qs
 
+<details>
+
+
 ### 学好时间复杂度，有很多帮助，比如：
 1. 面试官会问你的算法，时间复杂度是多少
 2. 当面试官说，有没有更好的方法时，你知道朝什么样的复杂度优化
@@ -86,6 +89,9 @@ Follow Up:
 
 [609. Two Sum - Less than or equal to target](https://www.lintcode.com/problem/two-sum-less-than-or-equal-to-target/description), [sol](https://www.jiuzhang.com/problem/two-sum-less-than-or-equal-to-target)
 
+</details>
+
+
 ---
 ([Go back to respository ReadMe](../README.md))
 
@@ -97,6 +103,7 @@ Follow Up:
 |归并排序（Merge Sort）|Theta(nlogn)|O(n)*|Yes|Do T(n/2) first|
 ||
 
+<details>
 Note *:
 
 1. The **worst case** is when the array is already sorted but pivot select the arr[0] every time, making it become O(1) + O(n^2) => O(n^2).
@@ -150,6 +157,7 @@ Note *:
 
 [148. Sort Colors](148.Sort_Colors.md) Q select.
 
+</details>
 
 
 ---
@@ -208,6 +216,7 @@ Note *:
 
 # 第十四章【视频】性价比之王——宽度优先搜索
 
+# 第十五章【视频】解决99%二叉树问题的算法——分治法
 
 ---
 ([Go back to respository ReadMe](../README.md))
