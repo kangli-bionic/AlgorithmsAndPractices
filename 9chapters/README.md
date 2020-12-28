@@ -81,7 +81,7 @@ Follow Up:
 3. Two Sum <= target.
 
 ### LC:
-[56. Two Sum](https://www.lintcode.com/problem/two-sum/description), [sol](https://www.jiuzhang.com/problem/two-sum/)
+[56. Two Sum](../lintcode/56.twosum.md)
 
 [415. Valid Palindrome](https://www.lintcode.com/problem/valid-palindrome/description), [sol](https://www.jiuzhang.com/problem/valid-palindrome/)
 
