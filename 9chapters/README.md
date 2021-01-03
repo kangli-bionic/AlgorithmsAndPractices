@@ -8,6 +8,18 @@ This is my notes for the 9 chapters Algorithms course 2020. Mainly contains the 
 
 Class notes are inside Notability. Recorded video are also provided. 
 
+# Contents:
+- [Two Pointers Algorithm](#2p)
+- [Recursion/Stack/Heap/Tree](#rec)
+- [二分法](#divide)
+- [Queue](#q)
+- [BFS + Graph](#bfs)
+- [分治法](#dc)
+- [DFS](#dfs)
+
+
+</br>
+
 # [第一章【视频】FB面试官揭秘算法面试速成技巧 - 怎样做到 Bug Free 和刷100题等于别人刷300题](nb_第一章_FB面试官揭秘算法面试速成技巧.pdf) 
 详见notability
 
@@ -20,10 +32,19 @@ Class notes are inside Notability. Recorded video are also provided.
 
 
 ### LC:
-[200. Longest Palindromic Substring](https://www.lintcode.com/problem/longest-palindromic-substring/description), 
-[sol](https://www.jiuzhang.com/solution/longest-palindromic-substring/)
+<table>
+<tr>
+<td>
+
+[200. Longest Palindromic Substring](https://www.lintcode.com/problem/longest-palindromic-substring/description), [sol](https://www.jiuzhang.com/solution/longest-palindromic-substring/)
+
+</td>
+<td>
 
 [667. Longest Palindromic Subsequence](https://www.lintcode.com/problem/longest-palindromic-subsequence/description), [sol](https://www.jiuzhang.com/problem/longest-palindromic-subsequence)
+</td>
+</tr>
+</table>
 
 # [第三章【互动】真实面试案例分析（下）与80%求职者会踩坑的基础知识](files/chapter3.md)
 
@@ -58,11 +79,14 @@ Greedy Alg [187. Gas Station](https://www.lintcode.com/problem/gas-station/descr
 </tr>
 </table>
 
----
+</br>
+
 ([Go back to respository ReadMe](../README.md))
 
 ---
-# Two Pointers Algorithm:
+---
+---
+# <span id="2p" color="red">  ***Two Pointers Algorithm***:</span>
 
 
 # 第四章【互动】复杂度理论与双指针算法入门
@@ -105,12 +129,13 @@ Follow Up:
 2. If require you to return the indices. 
 3. Two Sum <= target.
 
----
+</br>
+
 ([Go back to respository ReadMe](../README.md))
 
----
+</br>
 
-# Two Pointers Algorithm 2:
+# ***Two Pointers Algorithm 2***:
 
 # [第五章【互动】必须熟练掌握的两个排序算法](files/chapter5.md)
 - Part 1: Quick Sort, Merge Sort
@@ -122,12 +147,19 @@ Follow Up:
 |归并排序（Merge Sort）|Theta(nlogn)|O(n)*|Yes|Do T(n/2) first|
 ||
 
+</br>
 
----
+# ***Two Pointers Algorithm 3***:
+# 第八章【视频】高频算法之王——双指针算法之相向双指针
+
+
+
 ([Go back to respository ReadMe](../README.md))
 
 ---
-# [插入章 Recursion/Stack/Heap/Tree](files/recursion.md)
+---
+---
+# <span id = "rec">[***插入章 Recursion/Stack/Heap/Tree***](files/recursion.md) </span>
 - Part 1 递归三要素 Recursion 3 key parts 
 - Part 2 递归调用栈 (内存的堆栈 函数调用栈) Recursion with stack and heap 
 - Part 3 值传递与引用传递 Pass by value vs Pass by reference 
@@ -135,6 +167,9 @@ Follow Up:
 
 
 ---
+---
+---
+# <span id = "divide"> ***二分法***：</span>
 # [第六章【互动】时间复杂度为O(logN)的高频算法——二分法](files/chapter6.md)
 
 - Part 1 时间复杂度 - 用 T 函数表示法计算时间复杂度
@@ -143,20 +178,27 @@ Follow Up:
 - Part 4 什么是递归深度
 
 
----
+</br>
+
 ([Go back to respository ReadMe](../README.md))
 
+# ***二分法 2***：
 # [第七章【互动】一个不会出现死循环的通用二分法模板](files/chapter7.md)
 - 二分查找模版
 - 四个要点
 
----
+</br>
+
 ([Go back to respository ReadMe](../README.md))
 
-# 第八章【视频】高频算法之王——双指针算法之相向双指针
-
+# ***二分法 3***：
 # 第九章【视频】简约而不简单——二分法学习的四重境界
 
+---
+---
+---
+
+# <span id = "q">***Queue***:</span>
 # [第十章【互动】队列知识点从易到难](files/chapter10.md)
 - Part 1: Queue 
 - Part 2: Implement queue using array and its issue
@@ -164,14 +206,34 @@ Follow Up:
 - Part 4: Java Queue Interface, Java Basis: Interface Set Map List Queue
 - Part 5: Java Basis: Interface vs Abstract Class
 
----
+</br>
+
 ([Go back to respository ReadMe](../README.md))
 
+
+---
+---
+---
+# <span id = "bfs">***BFS + Graph***:</span>
 # [第十一章【互动】宽度优先搜索与图论入门](files/chapter11.md)
 - Part 1: BFS 3种适用场景
 - Part 2: BFS 3种实现方法：单队列，双队列，DummyNode
 - Part 3: 图，二叉树的BFS和图的BFS
 - Part 4: 如何定义图的数据结构：邻接矩阵，邻接表
+
+# 第十四章【视频】性价比之王——宽度优先搜索
+
+
+</br>
+
+([Go back to respository ReadMe](../README.md))
+
+
+---
+---
+---
+
+# <span id = "dc">***分治法***:</span>
 
 # [第十二章【互动】用递归实现遍历法和分治法](files/chapter12.md)
 - Part 1: 递归、DFS和回溯的的关联和区别
@@ -184,9 +246,26 @@ Follow Up:
 - Part 3: 浅拷贝和深拷贝
 
 
-# 第十四章【视频】性价比之王——宽度优先搜索
-
 # 第十五章【视频】解决99%二叉树问题的算法——分治法
+
+
+</br>
+
+([Go back to respository ReadMe](../README.md))
+
+---
+---
+---
+
+# <span id = "dfs">***DFS***:</span>
+# [第十六章【互动】组合类DFS](files/chapter16.md)
+
+求所有可能方案 90% -> 用搜索来解 -> 用DFS
+
+- Part 1 用DFS来解决在隐式图上的组合问题, 17.subset两个解法 DFS
+- Part 2 18.subset ii 两个解法 DFS+Hash
+
+# [第十七章【互动】排列类DFS](files/chapter17.md)
 
 # 第二十章【视频】刷人利器——深度优先搜索
 ---
