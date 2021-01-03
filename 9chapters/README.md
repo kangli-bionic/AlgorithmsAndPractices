@@ -86,7 +86,7 @@ Greedy Alg [187. Gas Station](https://www.lintcode.com/problem/gas-station/descr
 ---
 ---
 ---
-# <span id="2p" color="red">  ***Two Pointers Algorithm***:</span>
+# <span id="2p" style="color:purple">  ***Two Pointers Algorithm***:</span>
 
 
 # 第四章【互动】复杂度理论与双指针算法入门
@@ -159,7 +159,8 @@ Follow Up:
 ---
 ---
 ---
-# <span id = "rec">[***插入章 Recursion/Stack/Heap/Tree***](files/recursion.md) </span>
+# <span id = "rec" style="color:purple" >***Recursion/Stack/Heap/Tree*** :</span>
+# [插入章 Recursion/Stack/Heap/Tree](files/recursion.md)
 - Part 1 递归三要素 Recursion 3 key parts 
 - Part 2 递归调用栈 (内存的堆栈 函数调用栈) Recursion with stack and heap 
 - Part 3 值传递与引用传递 Pass by value vs Pass by reference 
@@ -169,7 +170,7 @@ Follow Up:
 ---
 ---
 ---
-# <span id = "divide"> ***二分法***：</span>
+# <span id = "divide" style="color:purple"> ***二分法***：</span>
 # [第六章【互动】时间复杂度为O(logN)的高频算法——二分法](files/chapter6.md)
 
 - Part 1 时间复杂度 - 用 T 函数表示法计算时间复杂度
@@ -198,7 +199,7 @@ Follow Up:
 ---
 ---
 
-# <span id = "q">***Queue***:</span>
+# <span id = "q" style="color:purple">***Queue***:</span>
 # [第十章【互动】队列知识点从易到难](files/chapter10.md)
 - Part 1: Queue 
 - Part 2: Implement queue using array and its issue
@@ -214,7 +215,7 @@ Follow Up:
 ---
 ---
 ---
-# <span id = "bfs">***BFS + Graph***:</span>
+# <span id = "bfs" style="color:purple">***BFS + Graph***:</span>
 # [第十一章【互动】宽度优先搜索与图论入门](files/chapter11.md)
 - Part 1: BFS 3种适用场景
 - Part 2: BFS 3种实现方法：单队列，双队列，DummyNode
@@ -233,7 +234,7 @@ Follow Up:
 ---
 ---
 
-# <span id = "dc">***分治法***:</span>
+# <span id = "dc" style="color:purple">***分治法***:</span>
 
 # [第十二章【互动】用递归实现遍历法和分治法](files/chapter12.md)
 - Part 1: 递归、DFS和回溯的的关联和区别
@@ -257,7 +258,7 @@ Follow Up:
 ---
 ---
 
-# <span id = "dfs">***DFS***:</span>
+# <span id = "dfs" style="color:purple">***DFS***:</span>
 # [第十六章【互动】组合类DFS](files/chapter16.md)
 
 求所有可能方案 90% -> 用搜索来解 -> 用DFS
