@@ -14,7 +14,7 @@ Class notes are inside Notability. Recorded video are also provided.
 # [第二章【互动】真实面试案例分析（上）与面试评分标准](nb_2._真实面试案例分析上)
 详见notability
 
-- Part I Longest palindromic substring
+- Part 1 Longest palindromic substring
 - Part 2 双指针 与 DP 解法.
 - Part 3 面试评分体系 and Coding Quality. 
 
@@ -27,31 +27,47 @@ Class notes are inside Notability. Recorded video are also provided.
 
 # [第三章【互动】真实面试案例分析（下）与80%求职者会踩坑的基础知识](files/chapter3.md)
 
-- Part I strStr and Rabin-Karp. 
+- Part 1 strStr and Rabin-Karp. 
 - Part 2 String 的坑.
 - Part 3 Greedy Alg.
 
 ### LC:
+<table>
+<tr>
+<td>
+
 [13. Implement strStr()](https://www.lintcode.com/problem/implement-strstr/description), [sol](https://www.jiuzhang.com/problem/implement-strstr)
+
+</td>
+<td>
 
 [128. Hash Function](https://www.lintcode.com/problem/hash-function/description), [sol](https://www.jiuzhang.com/problem/hash-function/) 
 
+</td>
+<td>
+
 [594. strStr II](https://www.lintcode.com/problem/strstr-ii/description), [sol](https://www.jiuzhang.com/problem/strstr-ii)
+
+</td>
+<td>
 
 Greedy Alg [187. Gas Station](https://www.lintcode.com/problem/gas-station/description), [sol](https://www.jiuzhang.com/problem/gas-station)
 
+</td>
+
+</tr>
+</table>
 
 ---
 ([Go back to respository ReadMe](../README.md))
 
 ---
-# Review begins here:
+# Two Pointers Algorithm:
 
----
 
 # 第四章【互动】复杂度理论与双指针算法入门
 
-- Part I Timing and Space complexity. 
+- Part 1 Timing and Space complexity. 
 - Part 2 三种双指针算法 two pointers
 - Part 3 Use 2 pointers: Valid Palindrome & Valid Palindrome II
 - Part 4 Two Sum: HashTable, Sort + 2 pointers, Follow Up Qs
@@ -92,6 +108,10 @@ Follow Up:
 ---
 ([Go back to respository ReadMe](../README.md))
 
+---
+
+# Two Pointers Algorithm 2:
+
 # [第五章【互动】必须熟练掌握的两个排序算法](files/chapter5.md)
 - Part 1: Quick Sort, Merge Sort
 - Part 2: Quick Select
@@ -106,6 +126,15 @@ Follow Up:
 ---
 ([Go back to respository ReadMe](../README.md))
 
+---
+# [插入章 Recursion/Stack/Heap/Tree](files/recursion.md)
+- Part 1 递归三要素 Recursion 3 key parts 
+- Part 2 递归调用栈 (内存的堆栈 函数调用栈) Recursion with stack and heap 
+- Part 3 值传递与引用传递 Pass by value vs Pass by reference 
+- Part 4 综合训练 More practices 
+
+
+---
 # [第六章【互动】时间复杂度为O(logN)的高频算法——二分法](files/chapter6.md)
 
 - Part 1 时间复杂度 - 用 T 函数表示法计算时间复杂度
