@@ -86,7 +86,7 @@ Greedy Alg [187. Gas Station](https://www.lintcode.com/problem/gas-station/descr
 ---
 ---
 ---
-# <span id="2p" style="color:purple"> <font color="purple"> ***Two Pointers Algorithm***:</font></span>
+# 🔴 <span id="2p" style="color:purple">  ***Two Pointers Algorithm***:</span>
 
 
 # 第四章【互动】复杂度理论与双指针算法入门
