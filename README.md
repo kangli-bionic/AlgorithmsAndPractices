@@ -6,7 +6,7 @@ This is a private place where I record my reviewing, thinking and reorganizaiton
 And my [notes about the book "Crack the code interview, 6th edition"](cc189/README.md). 
 
 
-[comment]: <> (And my notes about "9 chapters Algorithm course 2020" 9chapters/README.md. )
+[comment]: <> (And my notes about "9 chapters Algorithm course 2020". 9chapters/README.md )
 
 
 

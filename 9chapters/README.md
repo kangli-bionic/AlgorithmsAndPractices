@@ -8,11 +8,16 @@ This is my notes for the 9 chapters Algorithms course 2020. Mainly contains the 
 
 Class notes are inside Notability. Recorded video are also provided. 
 
-# 第二章【互动】真实面试案例分析（上）与面试评分标准
+# [第一章【视频】FB面试官揭秘算法面试速成技巧 - 怎样做到 Bug Free 和刷100题等于别人刷300题](nb_第一章_FB面试官揭秘算法面试速成技巧.pdf) 
+详见notability
+
+# [第二章【互动】真实面试案例分析（上）与面试评分标准](nb_2._真实面试案例分析上)
+详见notability
 
 - Part I Longest palindromic substring
 - Part 2 双指针 与 DP 解法.
 - Part 3 面试评分体系 and Coding Quality. 
+
 
 ### LC:
 [200. Longest Palindromic Substring](https://www.lintcode.com/problem/longest-palindromic-substring/description), 
@@ -39,6 +44,11 @@ Greedy Alg [187. Gas Station](https://www.lintcode.com/problem/gas-station/descr
 ---
 ([Go back to respository ReadMe](../README.md))
 
+---
+# Review begins here:
+
+---
+
 # 第四章【互动】复杂度理论与双指针算法入门
 
 - Part I Timing and Space complexity. 
@@ -46,7 +56,6 @@ Greedy Alg [187. Gas Station](https://www.lintcode.com/problem/gas-station/descr
 - Part 3 Use 2 pointers: Valid Palindrome & Valid Palindrome II
 - Part 4 Two Sum: HashTable, Sort + 2 pointers, Follow Up Qs
 
-<details>
 
 
 ### 学好时间复杂度，有很多帮助，比如：
@@ -56,15 +65,15 @@ Greedy Alg [187. Gas Station](https://www.lintcode.com/problem/gas-station/descr
 
 ### 三种双指针算法
 1. 相向双指针 （判断回文串）
-   - Reverse type
-     - 翻转字符串 flip string 
-     - 判断回文串 palindrome
    - Two Sum type
-     - sum of two numbers
-     - sum of three numbers
+     - sum of two numbers. ( [56. Two Sum](lintcode/56.twosum.md); [608. Two Sum II - Input array is sorted](lintcode/608.Two_Sum_II_Input_array_is_sorted.md); [609. Two Sum - Less than or equal to target](lintcode/609.Two_Sum_Less_than_or_equal_to_target.md)  )
+     - sum of three numbers. 
+   - Reverse type
+     - 翻转字符串 flip string. 
+     - 判断回文串 palindrome. ( [415. Valid Palindrome](lintcode/415.Valid_Palindrome.md) ; [891. Valid Palindrome II](lintcode/891.Valid_Palindrome_II.md) )
    - Partition type
-     - quick sort
-     - color sort
+     - quick sort. ( [31. Partition Array](lintcode/31.Partition_Array.md) )
+     - color sort.
 2. 背向双指针 （最长回文串）
 3. 同向双指针  
 
@@ -79,18 +88,6 @@ Follow Up:
 1. What is sorted already?
 2. If require you to return the indices. 
 3. Two Sum <= target.
-
-### LC:
-[56. Two Sum](../lintcode/56.twosum.md)
-
-[415. Valid Palindrome](https://www.lintcode.com/problem/valid-palindrome/description), [sol](https://www.jiuzhang.com/problem/valid-palindrome/)
-
-[891. Valid Palindrome II](https://www.lintcode.com/problem/valid-palindrome-ii/description), [sol](https://www.jiuzhang.com/problem/valid-palindrome-ii/)
-
-[609. Two Sum - Less than or equal to target](https://www.lintcode.com/problem/two-sum-less-than-or-equal-to-target/description), [sol](https://www.jiuzhang.com/problem/two-sum-less-than-or-equal-to-target)
-
-</details>
-
 
 ---
 ([Go back to respository ReadMe](../README.md))
