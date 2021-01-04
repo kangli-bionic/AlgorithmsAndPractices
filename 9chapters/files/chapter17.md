@@ -36,6 +36,10 @@
 
 - 第十七章【互动】排列类DFS - 5- 递归和多重循环的关系.mov
 
+# LC:
+
+[16. Permutations II](16.Permutations_II.md)
+
 https://www.lintcode.com/problem/permutations-ii/description 
 
 # TSP

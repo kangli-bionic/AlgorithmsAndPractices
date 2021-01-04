@@ -275,6 +275,8 @@ Follow Up:
 
 # 🔴 <span id = "hash" style="color:purple">***HashMap Heap***:</span>
 
+[第十八章【互动】哈希表的原理](files/chapter18.md)
+
 第十八章【互动】哈希表的原理1
 第十八章【互动】哈希表的原理2 - rehash.mov
 
