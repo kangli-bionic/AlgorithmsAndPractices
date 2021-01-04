@@ -16,6 +16,7 @@ Class notes are inside Notability. Recorded video are also provided.
 - [BFS + Graph](#bfs)
 - [分治法](#dc)
 - [DFS](#dfs)
+- [HashMap Heap](#hash)
 
 
 </br>
@@ -268,6 +269,19 @@ Follow Up:
 
 # [第十七章【互动】排列类DFS](files/chapter17.md)
 
+
+
 # 第二十章【视频】刷人利器——深度优先搜索
+
+# 🔴 <span id = "hash" style="color:purple">***HashMap Heap***:</span>
+
+第十八章【互动】哈希表的原理1
+第十八章【互动】哈希表的原理2 - rehash.mov
+
+第十九章【互动】堆的基本原理
+
+第二十一章【视频】高频数据结构——哈希表与堆
+
+
 ---
 ([Go back to respository ReadMe](../README.md))
